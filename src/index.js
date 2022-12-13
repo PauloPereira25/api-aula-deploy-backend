@@ -6,7 +6,7 @@ const app = express();
 app.use(express.json());
 
 app.get('/', async (req, res) => {
-    return res.json('A api está Ok!'); 
+    return res.json('PARABÉNS ELINHAAAAAAA TU É BRABA, PORRA!!'); 
 });
 
 const port = process.env.PORT || 3001;
